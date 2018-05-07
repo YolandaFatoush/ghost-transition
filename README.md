@@ -1,6 +1,6 @@
 # ghost-transition
 
-> mylia testing project
+> ghost testing project
 
 ## Build Setup
 
